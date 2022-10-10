@@ -8,14 +8,23 @@ https://github.com/DataWithDanny/sql-masterclass
 Here are some of the topics which you covered in this short but sweet SQL Masterclass course:
 
 #### Step 2: Inspecting the trading.members table
+
 Selecting rows and columns from database tables with SELECT
+
 Use LIMIT to only return a set number of rows from a query
+
 Counting the number of records using COUNT(*)
+
 Counting the number of unique column and table records using `COUNT(DISTINCT)
+
 Filtering data using a WHERE filter
+
 Selecting DATE ranges using BETWEEN, >, >=, <, <=
+
 Using the IN and NOT IN filter conditions to remove and keep records
+
 Use CASE WHEN to apply simple if-else logic to an existing column
+
 
 #### Step 3: Analyzing daily BTC and ETH prices in the trading.prices table
 Finding the MIN and MAX dates
